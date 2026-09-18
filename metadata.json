@@ -1,0 +1,6 @@
+{
+  "name": "Hommie",
+  "description": "Trusted, real-time on-demand local services gig marketplace with multi-role workflows, live escrow status tracking, and dispatching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
